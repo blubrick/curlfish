@@ -1,0 +1,12 @@
+1. Compile the file curlfish.c and install the resulting  in a directory of your choice (/usr/local/bin is perfectly fine, but /bin is available when only / is mounted)
+
+2. Create symbolic links that point from curlfish to the full pathname of a script interpreter appended with ^M...
+e.g. 
+
+$ sudo ln -s /usr/local/bin/curlfish /bin/bash^M
+
+/bin/ksh^M -> /bin/curlfish
+/usr/bin/tcsh -> /bin/curlfish
+/usr/local/bin/python^M -> /bin/curlfish
+ 
+
