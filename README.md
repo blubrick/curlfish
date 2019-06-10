@@ -36,4 +36,4 @@ So there it is at last, a somewhat practical use for a "Hello World!" program!
 
 --
 
-blubrick, 05/10/16 (code actually written _circa 1999_)
+blubrick, 05/10/16 (code actually written _circa_ 2001)
