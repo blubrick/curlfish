@@ -1,6 +1,6 @@
 # Curlfish - The CRLF shell
 
-This is **curlfish**, a program just about as simple as they come.  The name comes from an expansion of an abreviation of "CR/LF shell" (CRLF shell -> crlfsh - > curlfish)
+This is **curlfish**, a program just about as simple as they come.  The name comes from an expansion of an abbreviation of "CR/LF shell" (CRLF shell -> crlfsh - > curlfish)
 
 What is a "CR/LF shell"? And why did I bother doing this?  Well, years ago as a sysadmin, a user came to me with a puzzling error: his shell script was doing nothing but printing this error message `: File not found /bin/ksh`
 
